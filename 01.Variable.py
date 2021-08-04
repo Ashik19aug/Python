@@ -48,3 +48,6 @@ print(x + y)  # 15
 # Global variables can be used by everyone, both inside of functions and outside.
 # you can create a variable name same as global variable & if you want to use global variable
 # global x
+
+
+# In Python, the data type is set when you assign a value to a variable
